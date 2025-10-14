@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./header.svg" alt="Julian Soto — Full Stack (Next.js/React)" />
+  
+![Julian Soto — Full Stack (Next.js/React)](./header.svg)
+
 </p>
 
 ---
