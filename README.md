@@ -49,7 +49,7 @@ I enjoy shipping complete features—from UI design and state management to **Ve
 - **Quadratic-Formula-Solver** — Educational tool for solving quadratics with step-by-step validation.  
   _Stack:_ HTML / CSS / JS.
 
-> Upcoming 2025 project: **WhisperLang** — real-time voice translation & transformation web app.
+
 
 ---
 
