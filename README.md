@@ -25,6 +25,10 @@ I enjoy shipping complete features—from UI design and state management to **Ve
 
 ---
 
+> **Upcoming 2025 project:** [Bass-Trainer-Academy](https://github.com/juliandeveloper05/Patitucci-s-Linear-11ths-Exercise-v2) — Interactive jazz bass practice platform with exercise library, metronome, and fretboard visualization.
+> *Stack:* React 19 + Vite + Tailwind + Web Audio API.
+
+
 ### Selected Projects
 
 - **e-commerce-project-mp-2024** — Full-featured store with **MercadoPago checkout**, SSR/ISR, protected routes, and admin panel.  
