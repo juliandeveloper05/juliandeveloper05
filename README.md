@@ -1,78 +1,63 @@
-<!-- Minimal banner -->
+# Hi there, I'm Julian Soto 👋
+### Senior Software Engineer | TypeScript & Modernization Specialist
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel)](https://juliansoto-portfolio.vercel.app/es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/full-stack-julian-soto/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliansoto.dev@gmail.com)
+
+---
+
+### 🚀 About Me
+
+I am a **Senior Software Engineer** with a unique engineering background. I bridge the gap between **Mission-Critical Legacy Systems (COBOL/Db2)** and **Modern Cloud Architectures (Next.js/TypeScript)**.
+
+Currently, I focus on training AI models on advanced coding logic and building scalable SaaS platforms using the latest web standards (React 19, Web Audio API).
+
+* 🔭 **Current Focus:** Advanced TypeScript, AI Training, and Real-time Audio processing on the web.
+* 💼 **Experience:** From maintaining bank-grade Mainframe systems to architecting headless e-commerce solutions.
+* ⚡ **Philosophy:** I build software that is strictly typed, rigorously tested, and designed to scale.
+
+---
+
+### 🛠️ Tech Stack & Radar
+
+**Modern Ecosystem**
+* **Core:** TypeScript (Advanced), React 19, Next.js 15, Node.js.
+* **State & Logic:** XState (FSM), Redux Toolkit, React Query, Zustand.
+* **Styling:** Tailwind CSS 4.0, Shadcn/ui, Figma.
+* **Testing:** Vitest, Playwright, React Testing Library.
+
+**Engineering Foundation (The "Senior" Edge)**
+* **Systems:** COBOL, JCL, VSAM (Mainframe Experience).
+* **Data:** MongoDB, PostgreSQL, Db2, SQL.
+* **Architecture:** RESTful APIs, Serverless, Microservices, CI/CD.
+
+---
+
+### 💎 Featured Projects
+
+#### 🎸 [Bass Academy](https://juliansoto-portfolio.vercel.app/es) (In Development)
+*An interactive, gamified music education platform.*
+* **The Challenge:** Create a low-latency audio learning experience in the browser.
+* **The Tech:** React 19, Web Audio API, Finite State Machines (FSM) for complex game logic.
+* **Key Achievement:** Architected a custom audio engine that runs smoothly on standard web clients.
+
+#### 🛍️ [NexusPay & Modern E-Commerce](https://github.com/juliandeveloper05/NexusPay-Modern-Payment-Platform)
+*A headless e-commerce architecture with secure payments.*
+* **The Challenge:** Move away from rigid templates to a dynamic, scalable headless solution.
+* **The Tech:** Next.js (App Router), MongoDB, Stripe API, NextAuth.
+* **Key Achievement:** Implemented secure, PCI-compliant payment flows and dynamic inventory management.
+
+---
+
+### 🤝 How I Work
+* **Strict Typing:** `noImplicitAny` is my lifestyle. Type safety prevents production fires.
+* **Clean Commits:** I use Conventional Commits because history matters.
+* **User First:** Performance metrics (LCP/CLS) are not just numbers; they are user experience.
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=900&center=true&vCenter=true&width=700&lines=Julian+Soto+%E2%80%94+Full+Stack+%28Next.js%2FReact%29;Frontend+Engineer+%7C+Product+Mindset;Clean+Code+%7C+DX+%7C+Shipping+things+that+matter" alt="typing"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juliandeveloper05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Julian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandeveloper05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <a href="https://www.juliansotodev.xyz" target="_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-live-000?logo=vercel"/></a>
-  <a href="https://www.linkedin.com/in/full-stack-julian-soto" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:juliansoto.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/contact-email-444"/></a>
-  <img alt="Location" src="https://img.shields.io/badge/Quilmes%2C%20AR-🇦🇷-222"/>
-</p>
-
----
-
-### About Me
-
-**Frontend / Full-Stack Developer** focused on **Next.js, React, and TypeScript**.  
-Obsessed with **DX (Developer Experience)**, **accessibility**, **performance**, and **regression-free testing**.  
-I enjoy shipping complete features—from UI design and state management to **Vercel deploys**, analytics, and performance budgets.
-
-- **Stack:** Next.js (App Router), React 18, TypeScript, Tailwind, shadcn/ui, Zustand / Redux, React Query, Prisma, PostgreSQL.
-- **Infra & DevOps:** Vercel, Docker (basic), GitHub Actions, Monorepos (Turborepo), CI for lint + tests + preview URLs.
-- **Testing:** Vitest / Jest, React Testing Library, Playwright.
-- **Extras:** Payment integrations (**MercadoPago**), authentication (NextAuth / Auth.js), file uploads, i18n, technical SEO.
-
----
-
-> **Upcoming 2025 project:** [Bass-Trainer-Academy](https://github.com/juliandeveloper05/Patitucci-s-Linear-11ths-Exercise-v2) — Interactive jazz bass practice platform with exercise library, metronome, and fretboard visualization.
-> *Stack:* React 19 + Vite + Tailwind + Web Audio API.
-
-
-### Selected Projects
-
-- **e-commerce-project-mp-2024** — Full-featured store with **MercadoPago checkout**, SSR/ISR, protected routes, and admin panel.  
-  _Stack:_ Next.js + TypeScript + Prisma + PostgreSQL + Vercel.
-
-- **mi-portfolio-2024** — Portfolio using **App Router**, dynamic OG images, Lighthouse ≥ 95.  
-  _Stack:_ Next.js + Tailwind + Vercel.
-
-- **mercadopago-app** — Isolated integration: **Preferences**, **Webhooks**, **Notifications**, and **Server Actions**.  
-  _Stack:_ Next.js + TS.
-
-- **react-native-game-explorer** — Mobile app consuming the RAWG API with navigation, pagination, and caching.  
-  _Stack:_ React Native + TypeScript.
-
-- **CodingTrivia** — Mini-game for devs: detect errors in code snippets with timer + scoreboard.  
-  _Stack:_ JavaScript.
-
-- **Quadratic-Formula-Solver** — Educational tool for solving quadratics with step-by-step validation.  
-  _Stack:_ HTML / CSS / JS.
-
-
-
----
-
-### Tech Radar
-
-**Core:** Next.js · React · TypeScript · Tailwind · shadcn/ui · React Query · Prisma · PostgreSQL  
-**Tooling:** Turborepo · ESLint · Prettier · Husky · Lint-Staged · Changesets  
-**Testing:** Vitest/Jest · RTL · Playwright  
-**Ops:** Vercel · Docker (basic) · GitHub Actions · Monorepo CI  
-**UX / Perf:** A11y · CLS/LCP budgets · RUM · OG Images  
-**Mobile:** React Native (Expo)
-
----
-
-### How I Work
-
-- Small PRs, feature flags, and **per-branch previews**.
-- **Strict conventions:** commitlint, Conventional Commits, and CI-blocking lint / tests.
-- **Accessible and performant design:** user first, visual effects later.
-
----
-
-### Contact
-
-Need someone who can take a feature from 0 to production without drama?  
-**Let’s talk.**
