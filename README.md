@@ -205,7 +205,7 @@ const julian = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandeveloper05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A554&text_color=FFFFFF&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandeveloper05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A554&text_color=FFFFFF&langs_count=8&v=2" height="165"/>
 </div>
 
 ---
@@ -213,7 +213,7 @@ const julian = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliandeveloper05&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=juliandeveloper05&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6&v=2" alt="GitHub Trophies"/>
 </div>
 
 ---
