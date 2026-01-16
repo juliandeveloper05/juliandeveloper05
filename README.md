@@ -204,17 +204,7 @@ const julian = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliandeveloper05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A554&fire=C9A554&currStreakLabel=C9A554" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandeveloper05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A554&text_color=FFFFFF&langs_count=8&v=2" height="165"/>
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliandeveloper05&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6&v=2" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -230,18 +220,6 @@ const julian = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliandeveloper05/juliandeveloper05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliandeveloper05/juliandeveloper05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliandeveloper05/juliandeveloper05/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
