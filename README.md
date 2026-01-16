@@ -197,17 +197,6 @@ const julian = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliandeveloper05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A554&icon_color=C9A554&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliandeveloper05&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A554&fire=C9A554&currStreakLabel=C9A554" height="165"/>
-</div>
-
-
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
