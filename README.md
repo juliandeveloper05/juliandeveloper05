@@ -119,19 +119,22 @@ const julian = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📋 TaskList App</h3>
+      <h3 align="center">📋 Bitrova</h3>
       <p align="center">
         <a href="https://github.com/juliandeveloper05/tasklist-app" target="_blank">
           <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Expo_52-000020?style=flat-square&logo=expo"/>
-        <img src="https://img.shields.io/badge/Reanimated_3-FF4081?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React_Native_0.81-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo"/>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Reanimated_4-FF4081?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square"/>
       </p>
       <p>
-        ✅ Feature-rich task management app with <b>recurring tasks</b>, glassmorphism design, subtasks, drag & drop reordering, undo/redo, categories, priorities, and smart notifications. Cross-platform iOS/Android/Web.
+        ✅ Feature-rich task management app with <b>Supabase authentication & cloud sync</b>, recurring tasks, glassmorphism design, attachments, subtasks, drag & drop reordering, undo/redo, and Lottie animations. Cross-platform iOS/Android/Web.
       </p>
     </td>
     <td width="50%">
@@ -230,7 +233,7 @@ const julian = {
 📧 **Email:** [juliansoto.dev@gmail.com](mailto:juliansoto.dev@gmail.com)  
 📱 **WhatsApp:** [+54 9 11 3066-6369](https://wa.me/5491130666369)
 
-<a href="https://www.buymeacoffee.com/juliandeveloper05" target="_blank">
+<a href="https://www.buymeacoffee.com/juliansoto" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
 </a>
 
