@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliandeveloper05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/palee_0x71)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+Modern+Web+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+Modern+Web+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Next.js+%7C+PHP+%7C+WordPress" alt="Typing SVG" />
 
 </div>
 
@@ -21,16 +21,16 @@
 const julian = {
   role: "Senior Software Engineer",
   location: "Argentina 🇦🇷",
-  focus: ["Modern Web Architecture", "Audio Technology", "Creative Applications"],
+  focus: ["Modern Web Architecture", "Audio Technology", "Creative Applications", "CMS Development"],
   currentlyBuilding: "Innovative apps that blend music, creativity, and technology",
-  learning: ["AI/ML Integration", "MediaPipe", "Web Audio API"],
+  learning: ["AI/ML Integration", "MediaPipe", "Web Audio API", "WordPress Plugin Development"],
   passions: ["Bass Guitar 🎸", "Photography 📷", "Gaming 🎮"],
 };
 ```
 
 - 🔭 Currently working on **Bass Academy** - An interactive bass training platform
-- 🌱 Specializing in **TypeScript, Modern Web Architecture & Legacy System Modernization**
-- 💬 Ask me about **React, Next.js, Web Audio API, or Creative Coding**
+- 🌱 Specializing in **TypeScript, Modern Web Architecture, PHP OOP & Legacy System Modernization**
+- 💬 Ask me about **React, Next.js, Web Audio API, WordPress, or Creative Coding**
 - 📫 Reach me at **juliansoto.dev@gmail.com**
 
 ---
@@ -40,9 +40,18 @@ const julian = {
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### CMS & Backend
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
 
 ### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -53,12 +62,6 @@ const julian = {
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-### Backend & Databases
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,6 +101,25 @@ const julian = {
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🏋️ Forma Real</h3>
+      <p align="center">
+        <a href="https://github.com/juliandeveloper05/forma-real" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_8.1-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AJAX-0769AD?style=flat-square"/>
+      </p>
+      <p>
+        💪 Fitness community forum built with <b>PHP OOP & WordPress</b>. Custom plugin with Singleton pattern, FULLTEXT search, moderation panel, real-time notifications, responsive theme with AJAX interactions.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">📷 APEX Photo Studio</h3>
       <p align="center">
         <a href="#" target="_blank">
@@ -117,8 +139,6 @@ const julian = {
         📸 Professional photo capture & editing app with <b>Lightroom-inspired UI</b>. Features HSL/Color panel, Tone Curve editor, Vignette, Film Grain, Split Toning, Lens Correction, and real-time RGB Histogram.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📋 Bitrova</h3>
       <p align="center">
@@ -138,6 +158,8 @@ const julian = {
         ✅ Feature-rich task management app with <b>Supabase authentication & cloud sync</b>, recurring tasks, glassmorphism design, attachments, subtasks, drag & drop reordering, undo/redo, and Lottie animations. Cross-platform iOS/Android/Web.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">💳 NexusPay</h3>
       <p align="center">
@@ -154,8 +176,6 @@ const julian = {
         💰 Modern payment platform with <b>MercadoPago integration</b>. Premium glassmorphism UI, dark/light mode, real-time webhooks, server actions, and complete checkout flow.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🎵 EP Music Player</h3>
       <p align="center">
@@ -172,22 +192,6 @@ const julian = {
         🎧 Client-side <b>DAW lite</b> with real-time FFT analysis, 6-band parametric EQ, stem separation simulation via biquad filter chains. Built with native Web Audio API.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🎮 PetBits</h3>
-      <p align="center">
-        <a href="https://github.com/juliandeveloper05/petbits" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase"/>
-        <img src="https://img.shields.io/badge/CRT_Effects-9bbc0f?style=flat-square"/>
-      </p>
-      <p>
-        🐾 Virtual pet simulator with <b>retro CRT aesthetic</b>. Multiple pets, progression system, economy, cloud sync, and pixel art visuals. Inspired by Tamagotchi & Neopets!
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -198,6 +202,7 @@ const julian = {
 | **Soul Solutions** | Landing page for mainframe modernization consulting (COBOL → Modern Stack) | HTML, CSS, JavaScript |
 | **Portfolio** | Personal portfolio with glassmorphism, Framer Motion animations, RSC | Next.js 14, TypeScript, Tailwind |
 | **Interactive Flow** | Creative flow visualization experiments | JavaScript, Canvas API |
+| **PetBits** | Virtual pet simulator with retro CRT aesthetic, progression & economy systems | JavaScript, PocketBase |
 
 ---
 
@@ -237,15 +242,5 @@ const julian = {
 <a href="https://www.buymeacoffee.com/juliansoto" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Julian Soto**
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
