@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliandeveloper05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/palee_0x71)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+Modern+Web+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Next.js+%7C+PHP+%7C+WordPress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+Modern+Web+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Next.js+%7C+PHP+%7C+WordPress;GSAP+%7C+Advanced+Animations" alt="Typing SVG" />
 
 </div>
 
