@@ -21,7 +21,7 @@
 const julian = {
   role: "Senior Software Engineer",
   location: "Argentina 🇦🇷",
-  focus: ["Modern Web Architecture", "Audio Technology", "Creative Applications", "CMS Development"],
+  focus: ["Modern Web Architecture", "Audio Technology", "Creative Animations", "GSAP & Advanced Animations", "CMS Development"],
   currentlyBuilding: "Innovative apps that blend music, creativity, and technology",
   learning: ["AI/ML Integration", "MediaPipe", "Web Audio API", "WordPress Plugin Development"],
   passions: ["Bass Guitar 🎸", "Photography 📷", "Gaming 🎮"],
@@ -56,6 +56,7 @@ const julian = {
 ### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Mobile & Cross-Platform
@@ -199,7 +200,7 @@ const julian = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Soul Solutions** | Landing page for mainframe modernization consulting (COBOL → Modern Stack) | HTML, CSS, JavaScript |
+| **Soul Solutions** | Premium landing page with GSAP animations for mainframe modernization consulting (COBOL → Modern Stack) | HTML, CSS, JavaScript, GSAP |
 | **Portfolio** | Personal portfolio with glassmorphism, Framer Motion animations, RSC | Next.js 14, TypeScript, Tailwind |
 | **Interactive Flow** | Creative flow visualization experiments | JavaScript, Canvas API |
 | **PetBits** | Virtual pet simulator with retro CRT aesthetic, progression & economy systems | JavaScript, PocketBase |
