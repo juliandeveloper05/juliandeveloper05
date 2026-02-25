@@ -2,14 +2,14 @@
 
 # 👋 Hey, I'm Julian Soto
 
-### 🚀 Senior Software Engineer | Full-Stack Developer | Audio & Creative Tech Enthusiast
+### 🚀 Senior Software Engineer | Full-Stack Developer | AI & Audio Tech Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juliansoto-C9A554?style=for-the-badge&logo=vercel&logoColor=white)](https://juliansoto-portfolio.vercel.app/es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/full-stack-julian-soto/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliandeveloper05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/palee_0x71)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=Building+Modern+Web+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Next.js+%7C+PHP+%7C+WordPress;GSAP+%7C+Advanced+Animations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9A554&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=60&lines=Building+Modern+Web+%26+AI+Experiences+%F0%9F%8C%90;TypeScript+%7C+React+%7C+Python+%7C+FastAPI+%7C+PyTorch;AI+%26+Audio+Processing+%7C+Machine+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -21,16 +21,16 @@
 const julian = {
   role: "Senior Software Engineer",
   location: "Argentina 🇦🇷",
-  focus: ["Modern Web Architecture", "Audio Technology", "Creative Animations", "GSAP & Advanced Animations", "CMS Development"],
-  currentlyBuilding: "Innovative apps that blend music, creativity, and technology",
-  learning: ["AI/ML Integration", "MediaPipe", "Web Audio API", "WordPress Plugin Development"],
+  focus: ["Modern Web Architecture", "AI & Audio Technology", "Machine Learning", "GSAP & Advanced Animations", "CMS Development"],
+  currentlyBuilding: "Full-stack AI apps that blend music, creativity, and technology",
+  learning: ["AI/ML Integration", "PyTorch", "TensorFlow", "Hugging Face", "Web Audio API"],
   passions: ["Bass Guitar 🎸", "Photography 📷", "Gaming 🎮"],
 };
 ```
 
-- 🔭 Currently working on **Bass Academy** - An interactive bass training platform
-- 🌱 Specializing in **TypeScript, Modern Web Architecture, PHP OOP & Legacy System Modernization**
-- 💬 Ask me about **React, Next.js, Web Audio API, WordPress, or Creative Coding**
+- 🔭 Currently working on **Dumu** - AI-powered bass extraction tool with Meta AI's Demucs & Spotify's Basic Pitch
+- 🌱 Specializing in **TypeScript, Python, FastAPI, Machine Learning & Modern Web Architecture**
+- 💬 Ask me about **React, Next.js, Web Audio API, AI/ML, WordPress, or Creative Coding**
 - 📫 Reach me at **juliansoto.dev@gmail.com**
 
 ---
@@ -40,10 +40,18 @@ const julian = {
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### CMS & Backend
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -82,6 +90,27 @@ const julian = {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🎵 Dumu — AI Bass Extraction</h3>
+      <p align="center">
+        <a href="https://dumu.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-00ff9d?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/juliandeveloper05/Dumu-AI-Bass-Extraction" target="_blank">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </p>
+      <p>
+        🎸 Full-stack AI application that extracts bass lines from any audio file using <b>Meta AI's Demucs</b> neural network for source separation and <b>Spotify's Basic Pitch</b> CNN for audio-to-MIDI conversion. Features BPM detection (Librosa), animated progress pipeline, drag & drop upload, real-time processing logs, and one-click MIDI download. Containerized on <b>Hugging Face Spaces</b>, frontend on <b>Vercel</b>.
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🎸 Bass Academy</h3>
       <p align="center">
         <a href="https://bass-academy-interactive-bass-train.vercel.app/" target="_blank">
@@ -101,6 +130,8 @@ const julian = {
         🎵 Interactive bass training platform with exercises from <b>John Patitucci, Victor Wooten, Flea & Jaco</b>. Features real-time tablature, fretboard visualization, Web Audio synthesis, recording studio, and experimental <b>BassAI Vision</b> (gesture control via MediaPipe).
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🏋️ Forma Real</h3>
       <p align="center">
@@ -118,14 +149,9 @@ const julian = {
         💪 Fitness community forum built with <b>PHP OOP & WordPress</b>. Custom plugin with Singleton pattern, FULLTEXT search, moderation panel, real-time notifications, responsive theme with AJAX interactions.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📷 APEX Photo Studio</h3>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
         <a href="https://github.com/juliandeveloper05/apex-photo-studio" target="_blank">
           <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
         </a>
@@ -140,6 +166,8 @@ const julian = {
         📸 Professional photo capture & editing app with <b>Lightroom-inspired UI</b>. Features HSL/Color panel, Tone Curve editor, Vignette, Film Grain, Split Toning, Lens Correction, and real-time RGB Histogram.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📋 Bitrova</h3>
       <p align="center">
@@ -150,17 +178,13 @@ const julian = {
       <p align="center">
         <img src="https://img.shields.io/badge/React_Native_0.81-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo"/>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Reanimated_4-FF4081?style=flat-square"/>
         <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square"/>
       </p>
       <p>
         ✅ Feature-rich task management app with <b>Supabase authentication & cloud sync</b>, recurring tasks, glassmorphism design, attachments, subtasks, drag & drop reordering, undo/redo, and Lottie animations. Cross-platform iOS/Android/Web.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💳 NexusPay</h3>
       <p align="center">
@@ -177,6 +201,8 @@ const julian = {
         💰 Modern payment platform with <b>MercadoPago integration</b>. Premium glassmorphism UI, dark/light mode, real-time webhooks, server actions, and complete checkout flow.
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎵 EP Music Player</h3>
       <p align="center">
@@ -192,6 +218,8 @@ const julian = {
       <p>
         🎧 Client-side <b>DAW lite</b> with real-time FFT analysis, 6-band parametric EQ, stem separation simulation via biquad filter chains. Built with native Web Audio API.
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
